@@ -47,7 +47,7 @@ When we start asking better questions, those lead to new perspectives, which lea
 
 Struggle is filled with potential and learning opportunities. Recognizing this is crucial to transforming struggle from a barrier to a catalyst for growth.
 
-**Overcoming Struggle: A Path Forward**
+## Overcoming Struggle: A Path Forward
 
 My recommended approach to overcoming struggle:
 
