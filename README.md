@@ -1,7 +1,7 @@
 # Welcome to My Articles
 
 1. [Synchronising Success and the Role of Team Collabortion in DevSecOps](./Synchronising%20Success%20and%20the%20Role%20of%20Team%20Collaboration%20in%20DevSecOps/README.md)
-
+2. [The Unseen Battle: Understanding and Overcoming Struggle](./The%20Unseen%20Battle%20-%20Understanding%20and%20Overcoming%20Struggle/README.md)
 
 ## Contributing through comments
 It would be great to hear your thoughts on these articles by contacting me through Medium, LinkedIn or X below. I am happy to bounce ideas or chat about the topic so feel free to contact me to have further discussion.
