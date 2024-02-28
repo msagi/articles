@@ -14,13 +14,13 @@ We struggle for various reasons: It could stem from external sources such as wor
 
 Our thinking patterns play a crucial role in shaping our experiences and outcomes, especially when facing challenges. They can either empower us or hold us back. By recognizing and adjusting these patterns, particularly **the questions we ask ourselves**, we can significantly change our approach to solving problems and overcoming struggles.
 
-Negative thinking patterns, such as catastrophizing, overgeneralizing, or black-and-white thinking, can (unnecessarily) amplify our struggles. 
+Negative thinking patterns, such as catastrophising, overgeneralising, or black-and-white thinking, can (unnecessarily) amplify our struggles. 
 
 Recognizing our thinking patterns is the first step toward changing them. Mindfulness and reflection are powerful tools in this process, allowing us to observe our thoughts without judgement and identify patterns that may be contributing to our struggles.
 
 ## Reflecting on Our Questions
 
-The questions we ask ourselves in the face of challenges greatly influence our ability to find solutions. If we ask disempowering questions like, "Why does this always happen to me?" or "What did I do to deserve this?" and focusing on blame and being a victim, can trap us in a cycle of negativity.
+The questions we ask ourselves in the face of challenges greatly influence our ability to find solutions. If we ask disempowering questions like, "Why does this always happen to me?" or "What did I do to deserve this?" and focusing on blame and being a victim can trap us in a cycle of negativity.
 
 >Changing the questions we ask can shift our perspective and enable us to explore new approaches and solutions.
 
@@ -53,11 +53,11 @@ My recommended approach to overcoming struggle:
 
 1. **Accept**: The first step is to accept struggle as part of your journey, a signal for potential growth.
 
-2. **Seek Support**: Struggling does not have to be a lonely journey. Reach out to mentors, coaches, or professionals who can provide guidance, support, and a fresh perspective.
+2. **Practice Self-Care**: Never underestimate the power of self-care. Physical, emotional, and mental well-being are your allies in overcoming struggles. Prioritise activities that recharge your spirit and strength which will be key enablers to move forward.
 
-3. **Embrace Learning**: Every struggle brings opportunities for learning. Embrace the learning process and remain open to new strategies and solutions. Ask high-quality questions to shift your perspective and find your high-quality answers which will support you to break out of the loop of struggle.
+3. **Seek Support**: Struggling does not have to be a lonely journey. Reach out to mentors, coaches, or professionals who can provide guidance, support, and a fresh perspective. External viewpoints are very effective in stopping negative thinking patterns (e.g., catastrophising) and pivot your thinking to be more objective.
 
-4. **Practice Self-Care**: Finally, never underestimate the power of self-care. Physical, emotional, and mental well-being are your allies in overcoming struggles. Prioritise activities that recharge your spirit and strength.
+4. **Embrace Learning**: Every struggle brings opportunities for learning. Embrace the learning process and remain open to new strategies and solutions. Ask high-quality questions to shift your perspective and find your high-quality answers which will support you to break out of the loop of struggle.
 
 # In conclusion
 
