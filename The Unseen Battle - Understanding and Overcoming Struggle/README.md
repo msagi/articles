@@ -57,7 +57,9 @@ My recommended approach to overcoming struggle:
 
 3. **Seek Support**: Struggling does not have to be a lonely journey. Reach out to mentors, coaches, or professionals who can provide guidance, support, and a fresh perspective. External viewpoints are very effective in stopping negative thinking patterns (e.g., catastrophising) and pivot your thinking to be more objective.
 
-4. **Embrace Learning**: Every struggle brings opportunities for learning. Embrace the learning process and remain open to new strategies and solutions. Ask high-quality questions to shift your perspective and find your high-quality answers which will support you to break out of the loop of struggle.
+4. **Use the "Memory extraction spell"**: (Being a Harry Potter fan or not,) it is easier to see our negative thinking patterns when we map our struggles out. Write about it or create a mindmap, then take a look at it as someone else's challenge... even try to give advice to this special someone :).
+
+5. **Embrace Learning**: Every struggle brings opportunities for learning. Embrace the learning process and remain open to new strategies and solutions. Ask high-quality questions to shift your perspective and find your high-quality answers which will support you to break out of the loop of struggle.
 
 # In conclusion
 
