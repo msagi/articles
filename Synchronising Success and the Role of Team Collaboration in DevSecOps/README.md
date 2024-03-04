@@ -5,7 +5,7 @@
 ## Introduction
 As a Lead Principal Engineer, I have been deeply involved in Identity and Access Management (IAM), DevOps and cross-platform co-creation initiatives across various technology platforms in the UK financial services sector. 
 
-In our digital age, particularly in financial sevices, security must be integrated into each phase of development, and the traditional siloed approach to development, security, and operations is no longer viable. The challenge I see for large enterprises is to build a culture where development, security, and operations teams work together flawlessly. 
+In our digital age, particularly in financial services, security must be integrated into each phase of development, and the traditional siloed approach to development, security, and operations is no longer viable. The challenge I see for large enterprises is to build a culture where development, security, and operations teams work together flawlessly. 
 
 This post explores the essential role of team collaboration in DevSecOps, highlighting common obstacles and how overcoming them can greatly enhance our security posture and operational efficiency.
 
